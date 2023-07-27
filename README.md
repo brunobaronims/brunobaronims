@@ -3,7 +3,7 @@
 
 <h3> Eu estou</h3>
 
-- 🎓 &nbsp; Estudando **SOLID e Design Patterns** `[Projeto atual](https://github.com/brunobaronims/aform).
+- 🎓 &nbsp; Estudando **SOLID e Design Patterns** `[Projeto atual](https://github.com/brunobaronims/aform)`.
 - 🌱 &nbsp; Aprofundando em desenvolvimento de aplicações para processamento de áudio em C++ (JUCE framework).
 
 <h3> Hard Skills </h3>
