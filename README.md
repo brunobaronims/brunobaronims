@@ -3,7 +3,7 @@
 
 <h3> Eu estou</h3>
 
-- 🎓 &nbsp; Estudando **Desenvolvimento Web Fullstack** na <a href="https://www.driven.com.br/">Driven</a>.
+- 🎓 &nbsp; Estudando **SOLID e Design Patterns**.
 - 🌱 &nbsp; Aprofundando em desenvolvimento de aplicações para processamento de áudio em C++ (JUCE framework).
 
 <h3> Hard Skills </h3>
@@ -19,14 +19,13 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-**Utilidades**
-
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 
 **Ferramentas de Desenvolvimento**
 
@@ -34,6 +33,8 @@
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Storybook](https://img.shields.io/badge/-Storybook-333333?style=flat&logo=storybook)
 
 <br/>
 
