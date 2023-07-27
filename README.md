@@ -10,7 +10,7 @@
 
 **Aplicações e Dados**
 
-  ![C#](https://img.shields.io/badge/C#-333333?style=flat&logo=csharp)
+  ![C#](https://img.shields.io/badge/C%23-333333?logo=csharp)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
