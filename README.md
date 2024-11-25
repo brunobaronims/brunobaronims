@@ -3,7 +3,7 @@
 
 <h3> Eu estou</h3>
 
-- 🎓 &nbsp; Desenvolvendo um servidor de linguagem para protobuf usando Go
+- 🎓 &nbsp; Desenvolvendo um servidor de linguagem para protobuf usando Go.
 
 <h3> Hard Skills </h3>
 
