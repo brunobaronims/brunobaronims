@@ -1,13 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=brunobaronims&color=006bed)
 
-<h3> Eu estou</h3>
-
-- 🎓 &nbsp; Desenvolvendo um servidor de linguagem para protobuf usando Go.
-
-<h3> Hard Skills </h3>
-
-**Aplicações e Dados**
+**Languages and Frameworks**
 
   ![PHP](https://img.shields.io/badge/-PHP-333333?logo=php)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
@@ -28,13 +22,6 @@
   ![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
 
-**Ferramentas de Desenvolvimento**
-
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Storybook](https://img.shields.io/badge/-Storybook-333333?style=flat&logo=storybook)
-
 <br/>
 
 <a href="https://github.com/brunobaronims">
@@ -43,7 +30,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Find me @: </h3> 
 
 [![Linkedin: Bruno Baroni](https://img.shields.io/badge/-Bruno%20Baroni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-baroni-b6592720b/)](https://www.linkedin.com/in/bruno-baroni-b6592720b/)
 [![Gmail Badge](https://img.shields.io/badge/-brunobaronims@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunobaronims@gmail.com)](mailto:brunobaronims@gmail.com)
